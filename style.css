@@ -1,3 +1,28 @@
-body {
-    font-size: 15pt;
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.center2,h1,strong,.dk4{
+  background-color: blue;
+  text-align: center;
+  font-size: 3px;
+  color: white;
+  
+
+}
+.center2{
+  width: auto; 
+}
+.dk4{
+  width: auto; 
+  padding-top: 10px; 
+  text-align: center;
+  
+}
+.header{
+  height: auto;
+  width: auto;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid skyblue;
 }
